@@ -1,0 +1,17 @@
+Package: misyouli
+Type: Package
+Title: miscellaneous functions 
+Version: 0.1.0
+Author@R: person("Youli","Xia",email = "xiayouliylx@gmail.com", role = c("aut","cre"))
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: miscellaneous functions 
+License: 
+Encoding: UTF-8
+LazyData: true
+Imports:
+  tidyverse,
+  caret,
+  glmnet,
+  RColorBrewer,
+  extrafont,
+  ROCR
